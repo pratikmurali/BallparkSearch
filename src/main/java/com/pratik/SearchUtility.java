@@ -7,7 +7,9 @@ package com.pratik;
 public class SearchUtility {
 
     /**
-     * Method to search based on different search criteria.
+     * This method finds an element in the array
+     * that best fits the search criteria. It returns
+     * the match type and the index of the matching item. 
      * @param items
      * @param ascending
      * @param key
