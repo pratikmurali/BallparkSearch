@@ -7,7 +7,7 @@ package com.pratik;
 public class SearchUtility {
 
     /**
-     * Method to search based on different query(search) criteria.
+     * Method to search based on different search criteria.
      * @param items
      * @param ascending
      * @param key
@@ -94,6 +94,9 @@ public class SearchUtility {
 
     }
 
+    /**
+     * Driver program to test supplied inputs.
+     */
     public static void main(String[] args) {
 
         int a1[] = { 0, 2, 4, 6, 8 };

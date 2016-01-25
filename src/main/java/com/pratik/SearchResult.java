@@ -1,5 +1,5 @@
 /**
- * 
+ * Enum type to hold the Search Results.
  */
 package com.pratik;
 
